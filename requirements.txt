@@ -1,5 +1,0 @@
-matplotlib
-numpy
-pillow
-tensorflow
-img2pdf
